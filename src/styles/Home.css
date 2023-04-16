@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+ul {
+    list-style: none;
+    margin: 0;
+    display: flex;
+
+}
+
+li {
+    margin-left: 20px;
+}
+
+
+
+
+
+.centerProfile {
+    width: 60vw;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.resume {
+    height: 40px;
+    width: 120px;
+    /* background: red; */
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
+
+.resume:hover {
+    background: yellow;
+}
+
+.Tech{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
