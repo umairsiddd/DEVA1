@@ -10,7 +10,7 @@ export default function Home() {
                     style={{ boxShadow: "5px 5px 10px 2px rgba(0,0,0,.8);" }} />
                 <div className="col-6" style={{ marginLeft: "20px;" }}>
                     <h1>Shayan Jawed</h1>
-                    <p className="text-dark">My name is Shayan and I am a Full Stack Web and App
+                    <p className="text-dark">My name is UMAIR and I am a Full Stack Web and App
                         Developer. With multiple years of experience in
                         the field, I have developed a strong skill set in designing and implementing complex web and
                         mobile
